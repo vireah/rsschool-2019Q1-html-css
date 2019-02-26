@@ -1,1 +1,2 @@
-# rsschool-2019Q1-html-css
+Dzmity Komar
+HTML CSS Basics: https://www.codecademy.com/users/dimon008/achievements
